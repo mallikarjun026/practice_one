@@ -1,3 +1,7 @@
 hi my name is mallikarjun
 this is myrepository for practicing GIT
 here are some more chang
+
+this change wwas done to make conflict in two branches 
+there was also a change done in master 
+adding some more filesto caus conflict 
