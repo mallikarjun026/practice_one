@@ -1,0 +1,12 @@
+here are some more changes
+hi my name is mallikarjun
+this is myrepository for practicing GIT
+here are some more chang
+
+where there is a will there is way
+japan is called land of rising sun
+
+this change wwas done to make conflict in two branches 
+there was also a change done in master 
+adding some more filesto caus conflict 
+some changes here
